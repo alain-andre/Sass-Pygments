@@ -5,4 +5,4 @@ Pygments_, a Python-based code highlighting tool, comes with a set of builtin st
 
 SASS styles for Pygments 
 
-(Pygments)[http://pygments.org]
+[Pygments](http://pygments.org)
